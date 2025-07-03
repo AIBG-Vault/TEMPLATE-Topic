@@ -13,7 +13,7 @@ _**Regarding this README:**_
 - _Keep instructions clear and concise._
 - _Refer to the example READMEs in existing topics for formatting and level of detail._
 
-# _Topic_name_
+# AIBG - _Topic_name_
 
 _Replace with the name of your topic/game. Use a descriptive and unique title._
 
