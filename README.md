@@ -116,3 +116,14 @@ _Describe how to run the test agents you created._
 ## Deploy
 
 _Provide instructions for deploying the topic on a remote server (e.g., VPS). Include installing prerequisites, copying files, installing dependencies, editing configuration, starting the server, and opening firewall ports. If your topic has any special deployment requirements (e.g., environment variables, extra services), mention them here. Also mention optional steps like setting up a custom domain if applicable._
+
+### (Optional) Set up a custom domain
+
+_For easier access, consider setting up a DNS A record (for example `topic.aibg.best.hr`) that points to your VPS IP. This makes the WebSocket endpoint easier to remember and share._
+
+**Example WebSocket connection URLs:**
+
+- `ws://topic.aibg.best.hr:3000`
+- `ws://your-vps-ip:3000`
+
+_To set up a DNS record, use your domain provider’s dashboard to create an A record pointing to your VPS._
